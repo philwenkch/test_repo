@@ -10,3 +10,6 @@
 =======
 #also editing a line to make a difference to the editing in the "my_new_branch" Version
 
+#adding a newline on 17.6./16:47
+
+#adding another line at 17.6./18:02
