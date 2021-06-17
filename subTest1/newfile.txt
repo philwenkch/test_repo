@@ -1,0 +1,4 @@
+#this is a new file in a sub directory
+#this is used to test git in subdirectories
+
+first line, 17.6./18:34
