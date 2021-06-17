@@ -4,4 +4,11 @@
 #this is a fourth line to add, pw/16.6./14:15
 
 
+
+-> now on the new branch: my_new_branch editing the file
+-> now adding an update in the new branche, having 2 Version in the new branch, 16.6./14:58
+
+=======
 #also editing a line to make a difference to the editing in the "my_new_branch" Version
+
+
