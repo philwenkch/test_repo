@@ -2,3 +2,6 @@
 #this is used to test git in subdirectories
 
 first line, 17.6./18:34
+
+
+making a conflict when changing on local side (commandline changes), 17.6./18:50
